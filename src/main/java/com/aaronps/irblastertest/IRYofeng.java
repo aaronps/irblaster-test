@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.aaronps.irtest;
+package com.aaronps.irblastertest;
 
 import gnu.io.RXTXPort;
 import gnu.io.SerialPortEvent;
